@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Apr 15, 2020 at 02:23 PM
+-- Generation Time: Apr 18, 2020 at 10:47 AM
 -- Server version: 8.0.17
 -- PHP Version: 7.3.10
 
@@ -36,6 +36,16 @@ CREATE TABLE `customers` (
   `CustomerTelNo` varchar(100) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
+--
+-- Dumping data for table `customers`
+--
+
+INSERT INTO `customers` (`CustomerID`, `CustomerName`, `Gender`, `CustomerType`, `CustomerTelNo`) VALUES
+(1, 'TodTor', 'M', 'VIP', '098745612'),
+(2, 'Scalet_TH', 'M', 'VIP', '0888888888'),
+(3, 'DishWasher Champion', 'M', 'VIP', '09999999999'),
+(4, 'Zenzo', 'F', 'Member', '0123456789');
+
 -- --------------------------------------------------------
 
 --
@@ -48,6 +58,26 @@ CREATE TABLE `products` (
   `Price` float NOT NULL,
   `ProductDetail` text CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+--
+-- Dumping data for table `products`
+--
+
+INSERT INTO `products` (`ProductID`, `ProductName`, `Price`, `ProductDetail`) VALUES
+(1, 'Black Coffee', 35, 'Coffee'),
+(2, 'Cappuccino', 45, 'Coffee'),
+(3, 'Espresso', 35, 'Coffee'),
+(4, 'Mocha', 50, 'Coffee'),
+(5, 'Latte', 50, 'Coffee'),
+(6, 'Green Tea', 45, 'Tea'),
+(7, 'Milk Tea', 40, 'Tea'),
+(8, 'Lemon Tea', 45, 'Tea'),
+(9, 'Black Tea', 35, 'Tea'),
+(10, 'Tea', 40, 'Tea'),
+(11, 'Doughnut', 20, 'Bekery'),
+(12, 'Cup Cake', 25, 'Bekery'),
+(13, 'Brownie', 30, 'Bekery'),
+(14, 'Fruit Pie', 30, 'Bekery');
 
 -- --------------------------------------------------------
 
@@ -145,13 +175,13 @@ ALTER TABLE `staffs`
 -- AUTO_INCREMENT for table `customers`
 --
 ALTER TABLE `customers`
-  MODIFY `CustomerID` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `CustomerID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `ProductID` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `ProductID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
 
 --
 -- AUTO_INCREMENT for table `sales`
