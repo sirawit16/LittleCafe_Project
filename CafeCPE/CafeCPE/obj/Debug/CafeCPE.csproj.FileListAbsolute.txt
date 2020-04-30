@@ -1,0 +1,66 @@
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe.config
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\bin\Debug\CafeCPE.pdb
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Form1.resources
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Properties.Resources.resources
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\obj\Debug\CafeCPE.exe
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\obj\Debug\CafeCPE.pdb
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\obj\Debug\CafeCPE.CPE4.resources
+C:\Users\Admin\source\repos\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Cafe.resources
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe.config
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\bin\Debug\CafeCPE.pdb
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Welcome.resources
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\obj\Debug\CafeCPE.App.resources
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Properties.Resources.resources
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\obj\Debug\CafeCPE.exe
+C:\Users\Admin\Desktop\CafeCPE\CafeCPE\obj\Debug\CafeCPE.pdb
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe.config
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\bin\Debug\CafeCPE.pdb
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csprojAssemblyReference.cache
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Welcome.resources
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.App.resources
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Properties.Resources.resources
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csproj.GenerateResource.cache
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.exe
+D:\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.pdb
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe.config
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\bin\Debug\CafeCPE.pdb
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csprojAssemblyReference.cache
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.App.resources
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Form3.resources
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Properties.Resources.resources
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csproj.GenerateResource.cache
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.exe
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.pdb
+D:\CPE\LittleCafe_Project-master\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Form1.resources
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe.config
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\bin\Debug\CafeCPE.pdb
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csprojAssemblyReference.cache
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Form1.resources
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\obj\Debug\CafeCPE.App.resources
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Form3.resources
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Properties.Resources.resources
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csproj.GenerateResource.cache
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\obj\Debug\CafeCPE.exe
+C:\Users\newko\OneDrive\เดสก์ท็อป\CafeCPE\CafeCPE\obj\Debug\CafeCPE.pdb
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe.config
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\bin\Debug\CafeCPE.exe
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\bin\Debug\CafeCPE.pdb
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csprojAssemblyReference.cache
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Form1.resources
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.App.resources
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Form3.resources
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Properties.Resources.resources
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csproj.GenerateResource.cache
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.exe
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.pdb
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.csproj.CoreCompileInputs.cache
+D:\CPE\LittleCafe_Project-master Edit\CafeCPE\CafeCPE\obj\Debug\CafeCPE.Form4.resources
